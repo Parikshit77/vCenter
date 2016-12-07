@@ -33,7 +33,7 @@ public class CreateVM {
 	    	
 	    //get VMname
 	    //vmName = args[0];
-	    vmName = "Test_VM202";
+	    vmName = "Test_VM203";
 	    
 	 
 	    ServiceInstance si = new ServiceInstance(new URL(url), user, password, true);
